@@ -1,2 +1,1 @@
-# Reverse Engineering and Demystifying \*OS Private Frameworks
-![[aapl.pdf]]
+# Reverse Engineering and Demystifying \*OS Private Frameworks![[research/MacOS/aapl.pdf]]
