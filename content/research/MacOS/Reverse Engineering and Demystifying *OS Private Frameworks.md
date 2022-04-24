@@ -1,2 +1,6 @@
 # Reverse Engineering and Demystifying \*OS Private Frameworks
-<iframe src="https://onedrive.live.com/embed?cid=45FADE6A0EE16469&resid=45FADE6A0EE16469%21199&authkey=AOak45RjPzI8N1o&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+$$
+\usepackage{pdfpages}
+\includepdf[pages=-]{aapl.pdf}
+\includegraphics{aapl.pdf}
+$$
