@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "d0b02448ef60c43b",
+    "type": "split",
+    "children": [
+      {
+        "id": "371b46e2ec180598",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MacOS/Reverse Engineering and Demystifying *OS Private Frameworks.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e03e2d3ef709b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "305bbbdacbe65767",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fc95cfb85ba8919",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa4316332c90f3db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5cec8b29025ef086",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d94e1dc7e792698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ddd1535253f4e59",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MacOS/Reverse Engineering and Demystifying *OS Private Frameworks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "371b46e2ec180598",
+  "lastOpenFiles": [
+    "MacOS/Reverse Engineering and Demystifying *OS Private Frameworks.md",
+    "research.md"
+  ]
+}
