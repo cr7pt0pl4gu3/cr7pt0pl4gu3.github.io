@@ -1,15 +1,14 @@
-name: Jacky Zhao
+name: Daniil Nababkin
 enableToc: true
 openToc: false
 enableLinkPreview: true
 enableLatex: true
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Security Researcher's blog from Ukraine, Kyiv.
 page_title:
-  "🪴 Quartz 3.2"
+  "cr7pt0pl4gu3 blog"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/cr7pt0pl4gu3
+  - link_name: GitHub
+    link: https://github.com/cr7pt0pl4gu3
