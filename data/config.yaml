@@ -1,7 +1,7 @@
 name: Daniil Nababkin
 enableToc: true
 openToc: false
-enableLinkPreview: true
+enableLinkPreview: false
 enableLatex: true
 description:
   Security Researcher's blog from Ukraine, Kyiv.
