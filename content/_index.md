@@ -3,7 +3,7 @@ title: cr7pt0pl4gu3 blog
 ---
 
 # Daniil Nababkin
-![photo|200x200](photo.jpg)
+[<img src="photo.jpg" width="250" height="250"/>](photo.jpg)
 ### Research
 - [[research/MacOS/Reverse Engineering and Demystifying *OS Private Frameworks|Reverse Engineering and Demystifying *OS Private Frameworks]]
 ### Certifications
