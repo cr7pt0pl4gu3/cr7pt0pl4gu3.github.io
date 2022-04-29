@@ -107,7 +107,7 @@ def dump(debugger, command, result, internal_dict):
     debugger.SetOutputFileHandle(f, True)  
     debugger.HandleCommand('disas -a 0x7ffb15479824')
 ```
-For the [Binary Ninja](https://binary.ninja), I created my LLDBDecorator class which inherits from BackgroundTaskThread to enable threading:
+For the [Binary Ninja](https://binary.ninja), I created my LLDBDecorator class which inherits from [BackgroundTaskThread](https://api.binary.ninja/binaryninja.plugin-module.html?highlight=backgroundtaskthread#binaryninja.plugin.BackgroundTaskThread) to enable threading:
 ```python
 class LLDBDecorator(BackgroundTaskThread):  
     def __init__(self, bv, fnc=""):  
