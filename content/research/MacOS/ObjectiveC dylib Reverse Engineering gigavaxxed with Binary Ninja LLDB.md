@@ -20,8 +20,7 @@ Honestly, the annotations & namings are close to being perfect:
 ### Impressive, but I use [iDa pRo](https://hex-rays.com/ida-pro/)
 Good luck on that (7.7.211224 [IDA Freeware](https://hex-rays.com/ida-free/) below):
 ![[research/MacOS/assets/Pasted image 20220429155934.png]]
-
-![[Pasted image 20220429160132.png]]
+![[research/MacOS/assets/Pasted image 20220429202149.png]]
 ## Backstory
 This story happened in April 2022, while I was attending the [Program Analysis for Vulnerability Research](https://margin.re/trainings/article.aspx?id=6) training by [Margin Research](https://margin.re) & [Vector35](https://vector35.com). That was just after I did [[research/MacOS/Reverse Engineering and Demystifying *OS Private Frameworks|Reverse Engineering and Demystifying *OS Private Frameworks]] for my university classes.
 
