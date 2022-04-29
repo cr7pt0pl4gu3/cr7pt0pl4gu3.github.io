@@ -47,7 +47,7 @@ One would say, "It will take a huge amount of time".
 
 ![[research/MacOS/assets/Pasted image 20220429191449.png]]
 
-I would answer, YES. Dynamic analysis ([LLDB](https://lldb.llvm.org)) itself is costly, not even taking the [Xcode](https://developer.apple.com/xcode/) project building & running into account. Moreover, the *Big O notation* would probably have died from a heart attack if my python code was EXPOSED to it.
+I would answer, YES. Dynamic analysis ([LLDB](https://lldb.llvm.org)) itself is costly, not even taking the [Xcode](https://developer.apple.com/xcode/) project building & running into account. Moreover, the *Big O notation* would probably have died from a heart attack if my python code was ever EXPOSED to it.
 
 BUT, the time spent is **WORTH IT**. The plugin also runs on a separate thread so it won't bother your analysis.
 
