@@ -53,9 +53,9 @@ BUT, the time spent is **WORTH IT**. The plugin also runs on a separate thread s
 
 For example, the time needed to decorate the whole ***TCC.Framework*** C-like export table using my plugin (tests were done on my M1 MacBook with *99999* Safari tabs open, PyCharm running, and Burp Suite + Chromium devouring my RAM and CPU in the background):
 
-x86_64:  **137** functions decorated, **17.85** minutes elapsed
+x86_64:  **137** functions decorated, **17.85** minutes elapsed.
 
-arm64: **137** functions decorated, **11.87** minutes elapsed
+arm64: **137** functions decorated, **11.87** minutes elapsed.
 
 Clearly shows why arm64 is the future.
 
@@ -94,7 +94,7 @@ int main(void) {
 
 Benchmark of ***AppleMobileFileIntegrity.Framework***:
 
-x86_64: **99** methods decorated, **5.93** minutes elapsed
+x86_64: **99** methods decorated, **5.93** minutes elapsed.
 
 Impressive!
 ## Automation is the key
