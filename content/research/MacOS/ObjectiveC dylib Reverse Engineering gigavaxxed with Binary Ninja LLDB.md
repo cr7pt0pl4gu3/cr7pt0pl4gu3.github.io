@@ -2,7 +2,7 @@
 title: Objective-C .dylib Reverse Engineering "gigavaxxed" with Binary Ninja & LLDB
 ---
 ## First, the results, then - many words
-PS. Warning, this post contains lots of black & unfunny IT humor
+PS. Warning, this post contains lots of black & unfunny IT humor.
 ### The complexity of this technique
 Just press a button (yep, that's it):
 ![[research/MacOS/assets/Pasted image 20220429151302.png]]
