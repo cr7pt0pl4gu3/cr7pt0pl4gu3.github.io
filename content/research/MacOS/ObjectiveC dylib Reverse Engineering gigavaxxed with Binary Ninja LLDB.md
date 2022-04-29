@@ -80,14 +80,14 @@ What about the Objective-C methods? I used the following technique:
 
 int main(void) {
 	Class c = NSClassFromString(@"AMFIPathValidator_ios");
-    void* p = method_getImplementation(class_getClassMethod(c, @selector(validateWithError:)));
-    if (p == NULL) {
-        void* p = method_getImplementation(class_getInstanceMethod(c, @selector(validateWithError:)));
-        NSLog(@"POINTER:%p", p);
-    }
-    else {
-        NSLog(@"POINTER:%p", p);
-    }
+	void* p = method_getImplementation(class_getClassMethod(c, @selector(validateWithError:)));
+	if (p == NULL) {
+		void* p = method_getImplementation(class_getInstanceMethod(c, @selector(validateWithError:)));
+		NSLog(@"POINTER:%p", p);
+	} 
+	else {
+		NSLog(@"POINTER:%p", p);
+	}
 }
 ```
 
