@@ -1,5 +1,5 @@
 ---
-title: Objective-C .dylib Reverse Engineering "gigavaxxed" with [Binary Ninja](https://binary.ninja) & [LLDB](https://lldb.llvm.org)
+title: Objective-C .dylib Reverse Engineering "gigavaxxed" with Binary Ninja & LLDB
 ---
 ## First, the results, then - many words
 PS. Warning, this post contains lots of black & unfunny IT humor
