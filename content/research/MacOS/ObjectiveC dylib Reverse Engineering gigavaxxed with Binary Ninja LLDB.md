@@ -1,4 +1,6 @@
-# Objective-C .dylib Reverse Engineering "gigavaxxed" with [Binary Ninja](https://binary.ninja) & [LLDB](https://lldb.llvm.org)
+---
+title: Objective-C .dylib Reverse Engineering "gigavaxxed" with [Binary Ninja](https://binary.ninja) & [LLDB](https://lldb.llvm.org)
+---
 ## First, the results, then - many words
 PS. Warning, this post contains lots of black & unfunny IT humor
 ### The complexity of this technique
@@ -21,7 +23,7 @@ Good luck on that (7.7.211224 [IDA Freeware](https://hex-rays.com/ida-free/) bel
 
 ![[Pasted image 20220429160132.png]]
 ## Backstory
-This story happened in April 2022, while I was attending the [Program Analysis for Vulnerability Research](https://margin.re/trainings/article.aspx?id=6) training by [Margin Research](https://margin.re) & [Vector35](https://vector35.com).
+This story happened in April 2022, while I was attending the [Program Analysis for Vulnerability Research](https://margin.re/trainings/article.aspx?id=6) training by [Margin Research](https://margin.re) & [Vector35](https://vector35.com). That was just after I did [[research/MacOS/Reverse Engineering and Demystifying *OS Private Frameworks|Reverse Engineering and Demystifying *OS Private Frameworks]] for my university classes.
 
 I was sitting in my chair thinking about reverse engineering one of Apple's Private Frameworks (you read it right, "thinking"). Casually loaded it in [Binary Ninja](https://binary.ninja), selected the [Objective-Ninja](https://github.com/jonpalmisc/ObjectiveNinja) workflow, and got greeted with this:
 [![image](https://user-images.githubusercontent.com/43863412/165771982-91a11611-9409-4de7-af83-1d28441027db.png)](https://user-images.githubusercontent.com/43863412/165771982-91a11611-9409-4de7-af83-1d28441027db.png)
