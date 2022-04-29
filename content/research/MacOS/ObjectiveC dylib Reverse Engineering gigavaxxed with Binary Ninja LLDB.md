@@ -71,7 +71,7 @@ int main(void) {
     NSLog(@"POINTER:%p", TCCAccessSetForBundleIdAndCodeRequirement);
 }
 ```
-TCCAccessSetForBundleIdAndCodeRequirement is also mentioned by [Wojciech Reguła](https://twitter.com/_r3ggi) [here](https://wojciechregula.blog/post/play-the-music-and-bypass-tcc-aka-cve-2020-29621/). Amusing that only resolving that function's pointer triggers such a pop-up.
+*TCCAccessSetForBundleIdAndCodeRequirement* is also mentioned by [Wojciech Reguła](https://twitter.com/_r3ggi) [here](https://wojciechregula.blog/post/play-the-music-and-bypass-tcc-aka-cve-2020-29621/). Amusing that only resolving that function's pointer triggers such a pop-up.
 
 What about the Objective-C methods? I used the following technique:
 ```objective-c
