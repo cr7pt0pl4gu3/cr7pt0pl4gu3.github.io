@@ -13,4 +13,4 @@ title: cr7pt0pl4gu3 blog
 - [Cybersecurity Essentials (Cisco)](https://www.credly.com/badges/4e311c24-4173-4ea7-811f-c2bd775c6f89/public_url "https://www.credly.com/badges/4e311c24-4173-4ea7-811f-c2bd775c6f89/public_url")
 - [II place at the National Hackathon on Cyber Security of Ukraine (OSINT)](https://cr7pt0pl4gu3.github.io/assets/HXK3.pdf)
 ## Trainings
-2022 | Program Analysis for Vulnerability Research @ Margin Research, Vector35
+* 2022 | Program Analysis for Vulnerability Research @ Margin Research, Vector35
