@@ -1,7 +1,7 @@
 ---
 title: Objective-C .dylib Reverse Engineering "gigavaxxed" with Binary Ninja & LLDB
 ---
-### \[UPDATE\] - source code now available [here](https://github.com/cr7pt0pl4gu3/Apple-Framework-Decorator). 
+## \[UPDATE\] - Source code now available [here](https://github.com/cr7pt0pl4gu3/Apple-Framework-Decorator). 
 ## First, the results, then - many words
 PS. Warning, this post contains lots of black & unfunny IT humor.
 ### The complexity of this technique
