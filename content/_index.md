@@ -3,6 +3,9 @@ title: cr7pt0pl4gu3 blog
 ---
 # Daniil Nababkin
 ![[assets/photo.jpg]]
+## Socials
+- [GitHub](https://github.com/cr7pt0pl4gu3)
+- [Twitter](https://twitter.com/cr7pt0pl4gu3)
 ## Research
 - [[research/MacOS/Reverse Engineering and Demystifying *OS Private Frameworks|Reverse Engineering and Demystifying *OS Private Frameworks]]
 - [[research/MacOS/ObjectiveC dylib Reverse Engineering gigavaxxed with Binary Ninja LLDB|Objective-C .dylib Reverse Engineering "gigavaxxed" with Binary Ninja & LLDB]]
