@@ -20,3 +20,5 @@ title: cr7pt0pl4gu3 blog
 ## Trainings
 * 2022 | Program Analysis for Vulnerability Research @ Margin Research, Vector35
 * 2022 | Certified Hybrid Multi-Cloud Red Team Specialist (CHMRTS) @ Cyberwarfare Labs
+* 2023 | StealthOps: Red Team Trade-craft Targeting Enterprise Security Controls @ Cyberwarfare Labs
+* 2023 | Certified Google Cloud Red Team Specialist (CGCRTS) @ Cyberwarfare Labs
